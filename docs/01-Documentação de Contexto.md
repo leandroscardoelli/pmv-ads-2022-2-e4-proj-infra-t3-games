@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O entretenimento eletrônico e uma área que vem crescendo muito os últimos anos, se tornando presente na vida de muitas pessoas. Ao mesmo tempo, em que cresce o número de jogadores, cresce também a quantidade de desenvolvedores e de jogos disponíveis. É possível encontrar jogos para todos os gostos, devido a grande variade de temas e plataformas. A partir disso, com o intuito de tentar reunir gamers quem gosta de novidades e desenvolvedores de jogos, sejam eles de grandes marcas ou amadores, esse projeto terá o objetivo de reunir em um site aqueles que desejam disponíbilizar seus jogos e aqueles que buscam novos jogos.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -15,6 +15,12 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+### Objetivo Geral
+
+Criação da aplicação é possibilitar ao usuário que faça o resgate de jogos online, possibilitando ao cliente que escolha o jogo de acordo com seu interesse, acessando uma galeria de jogos com filtros e categorias, enviando para o interessado um email informando sobre o processamento de resgate e acesso do link e arquivos dos jogos diretamente na biblioteca de jogos no site.
+
+### Objetivos específicos
+
 
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
