@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`TECNÓLOGO EM ANÁLISE DE DESENVOLVIMENTO DE SISTEMA`
 
-`DISCIPLINA`
+`DESENVOLVIMENTO DE UM APLICAÇÃO INTERATIVA`
 
-`SEMESTRE`
+`EIXO 4`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de uma Aplicação Distribuída.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Maria Teixeira do Carmo
+* Daiane Aparecida Rocha Cardoso
+* Gerald Gabriel dos Santos
+* Igor Vicente Machado
+* Jean Stefan dos Santos Lima
+* Leandro  ngelo Scardoelli
 
 ## Orientador
 
-* Nome completo do professor 1
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
