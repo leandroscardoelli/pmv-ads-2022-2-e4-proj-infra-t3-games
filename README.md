@@ -6,7 +6,7 @@
 
 `EIXO 4`
 
-Desenvolvimento de uma Aplicação Distribuída.
+Desenvolvimento de uma Aplicação Distribuída de uma pagina web e um aplicativo móvel onde será possível realizar o resgate de jogos disponíbilizados no site por desenvolvedores de jogos de forma gratuida e limitada de download. Os jogos resgatados, ficarão disponíveis na biblioteca de jogos do usuário dentro do site ou do aplicativo.
 
 ## Integrantes
 
