@@ -75,8 +75,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O app deve fser acessivel atraves de sistemas operacionais "Android" e "iSO | ALTA | 
-|RNF-002| a aplicação deve ser desenvolvida usando react para o front-end | ALTA | 
+|RNF-001| O app deve ser acessível através de sistemas operacionais "Android" e "iSO | ALTA | 
+|RNF-002| A aplicação deve ser desenvolvida usando react para o front-end | ALTA | 
 |RNF-003| A aplicação devem estar disponiveis 24 horas por dia e 07 dias da semana | ALTA | 
 |RNF-004| O sistema deverá ser compatível com os principais navegadores do mercado como (Google Chrome, Firefox, Microsoft Edge)| MÈDIA | 
 
