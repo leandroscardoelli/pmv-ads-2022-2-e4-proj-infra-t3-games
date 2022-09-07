@@ -89,18 +89,13 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
+A tabela a seguir define o conjunto de restrições impostas sobre o desenvolvimento do software. 
+ 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| A equipe possui um prazo de entrega do projeto até o final do semestre letivo, e tem como data de apresentação limite 14/12/2022. |
+|02| O projeto deve ser desenvolvido seguindo os princípios de uma aplicação distribuída. |
+|04|  A equipe não pode subcontratar o desenvolvimento do trabalho. |
 
 ## Diagrama de Casos de Uso
 
