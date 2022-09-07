@@ -13,41 +13,22 @@ O problema que se busca atacar é o gasto de tempo e esforço acentuado na local
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 ### Objetivo Geral
 
-Criação da aplicação que irá possibilitar ao usuário desenvolver disponibilize os seus jogos no site e que o usuário gamer faça o resgate de jogos. Será possível que o usuário-gamer possa escolher o jogo de acordo com seu interesse, acessando uma galeria de jogos com filtros e categorias. Após o resgate, será enviado para o interessado um email informando sobre o processamento de resgate e informando que o jogo esta disponível para download diretamente na biblioteca de jogos no site.
+Criação da aplicação que irá possibilitar ao usuário-desenvolvedor disponibilizar os seus jogos no site e que o usuário-gamer possa realizar o resgate de jogos. Será possível que o usuário-gamer possa escolher o jogo de acordo com seu interesse, acessando uma galeria de jogos com filtros e categorias. Após o resgate, será enviado para o interessado um email informando sobre o processamento de resgate e informando que o jogo esta disponível para download diretamente na biblioteca de jogos no site.
 
 ### Objetivos específicos
 
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Identificar os usuários que buscam os jogos, possibilitando a realização de um cadastro de forma bem simples e ágil, inclusive com a criação de um login;
+> Identificar os parceiros e desenvolvedores que criarem ou disponibilizarem jogos na aplicação;
+> Permitir ao usuário que realize o resgate de jogos, disponibilizados apenas uma vez e por tempo limitado;
+> Permitir ao usuário que tenha acesso a biblioteca de jogos disponíveis e baixados para utilização;
 
 ## Justificativa
 
 Em tempos de ampla globalização e o notável crescimento do mercado de games, um novo mercado de consumo se espalha pelo mundo, que para atender esta demanda, investe cada vez mais em acessibilidade e ferramentas para possibilitar que os fãs de jogos eletrônicos tenham cada vez mais facilidade e opções de entretenimento gratuito e de longo alcance para todos os continentes.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 A aplicação terá dois tipos de público alvo. Os primeiros serão desenvolvedores de jogos, que poderão disponibilizar e compartilhar suas criações na plataforma. O segundo público-alvo serão os apaixonados por games, os usuários gamers, que poderão ter rápido e amplo acesso a jogos que poderão ser resgatados e ficarão disponíveis em sua biblioteca.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
