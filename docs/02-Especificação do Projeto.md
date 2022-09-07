@@ -62,18 +62,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RNF-001| O sistema deve ser acessado por meio web e mobile | ALTA | 
-|RNF-002| Um resgate deve ser vinculado com um usuário e armazenado em uma tabela especifica para auditoria |  BAIXA | 
-|RNF-003| Ao resgatar um jogo com sucesso, ele receberá um e-mail informando do resgate |  ALTA | 
-|RNF-004| Desenvolvedores de jogos poderão cadastrar seus jogos |  MÈDIA | 
-|RNF-005|  A aplicação deve permitir operações de CRUD de  jogos |  ALTA | 
+|RF-001| O sistema deve ser acessado por meio web e mobile | ALTA | 
+|RF-002| Um resgate deve ser vinculado com um usuário e armazenado em uma tabela especifica para auditoria |  BAIXA | 
+|RF-003| Ao resgatar um jogo com sucesso, ele receberá um e-mail informando do resgate |  ALTA | 
+|RF-004| Desenvolvedores de jogos poderão cadastrar seus jogos |  MÈDIA | 
+|RF-005|  A aplicação deve permitir operações de CRUD de  jogos |  ALTA | 
+|RF-006|  O usuário deve se cadastrar ou fazer login no site para acessar | ALTA | 
+|RF-007|  Durante um tempo limitado, o usuário pode resgatar os jogos oferecidos apenas uma vez e se não possuir o jogo  | MÉDIA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RF-001|  O usuário deve se cadastrar ou fazer login no site para acessar | ALTA | 
-|RF-002|  Durante um tempo limitado, o usuário pode resgatar os jogos oferecidos apenas uma vez e se não possuir o jogo  | MÉDIA |
+|RNF-001| O app deve fser acessivel atraves de sistemas operacionais "Android" e "iSO | ALTA | 
+|RNF-002| a aplicação deve ser desenvolvida usando react para o front-end | ALTA | 
+|RNF-003| A aplicação devem estar disponiveis 24 horas por dia e 07 dias da semana | ALTA | 
+|RNF-004| O sistema deverá ser compatível com os principais navegadores do mercado como (Google Chrome, Firefox, Microsoft Edge)| MÈDIA | 
+
 
 ## Restrições
 
