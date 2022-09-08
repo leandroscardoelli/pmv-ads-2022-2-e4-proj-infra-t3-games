@@ -19,9 +19,9 @@ Criação da aplicação que irá possibilitar ao usuário-desenvolvedor disponi
 
 ### Objetivos específicos
 
-- Realizar o cadastro e criação de login de usuários-gamer e desenvolvedor de forma simples e ágil;
-- Identificar os parceiros e desenvolvedores que criarem ou disponibilizarem jogos na aplicação;
-- Permitir ao usuário que realize o resgate de jogos, disponibilizados apenas uma vez e por tempo limitado;
+- Realizar o cadastro e criação de login de usuários-gamer e desenvolvedor de forma simples, ágil e sem custos;
+- Identificar os parceiros e desenvolvedores que criarem ou disponibilizarem jogos na aplicação, fomentando assim a criação de novos jogos;
+- Permitir ao usuário que realize o resgate de jogos após recebimento de email específico, disponibilizados apenas uma vez e por tempo limitado;
 - Permitir ao usuário que tenha acesso a biblioteca de jogos disponíveis e baixados para utilização;
 
 ## Justificativa
