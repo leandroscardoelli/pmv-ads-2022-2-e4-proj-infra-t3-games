@@ -9,7 +9,7 @@ Portanto, pode-se dizer, sucintamente, que o objetivo é reunir em um só lugar,
  Cabe destacar, por fim, que quando há moderação, os jogos atuam como estimulantes e trazem benefícios para a saúde. 
 
 ## Problema
-O problema que se busca atacar é o gasto de tempo e esforço acentuado na localização e eventualmente a aquisição de games que se encaixam ao perfil do usuário, fazendo o uso da tecnologia, para implantação de um sistema e-comerce de games.
+O problema que se busca atacar é o gasto de tempo e esforço acentuado na localização e eventualmente a aquisição de games que se encaixam ao perfil do usuário, fazendo o uso da tecnologia, para implantação de um sistema e-comerce de games. A ideia é possibilitar que a aplicação seja de fácil acesso e usabilidade para todos os interesados na ferramenta.
 
 ## Objetivos
 
