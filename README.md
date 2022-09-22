@@ -15,7 +15,7 @@ Desenvolvimento de uma Aplicação Distribuída de uma pagina web e um aplicativ
 * Gerald Gabriel dos Santos
 * Igor Vicente Machado
 * Jean Stefan dos Santos Lima
-* Leandro  ngelo Scardoelli
+* Leandro  Ângelo Scardoelli
 
 ## Orientador
 
